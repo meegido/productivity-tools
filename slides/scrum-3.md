@@ -1,5 +1,3 @@
-# Scrumming solo
-<hr>
 ## Work towards clearly-defined, short-term goals
 
 <p class="fragment">limit and set a reasonable goal</p>
