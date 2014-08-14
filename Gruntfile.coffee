@@ -99,7 +99,7 @@ module.exports = (grunt) ->
                 connectCommits: true
             pages:
                 options:
-                    remote: 'http://github.com/elreplicante/productivity-tools.git'
+                    remote: 'http://github.com/meegido/productivity-tools.git'
                     branch: 'gh-pages'
 
 
