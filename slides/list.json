@@ -4,10 +4,12 @@
         "attr": {
             "data-background": "images/focus.jpeg",
             "data-background-size": "100%"
-          }
+        }
     },
     {
-        "attr": { "data-background": "images/pomodoro.jpg"  }
+        "attr": {
+            "data-background": "images/pomodoro.jpg"
+        }
     },
     {
         "attr": {
@@ -27,5 +29,6 @@
         "scrum-2.md",
         "scrum-3.md",
         "scrum-4.md"
-    ]
+    ],
+    "build-a-roadmap.md"
 ]
