@@ -12,6 +12,19 @@
     {
         "attr": {
             "data-background": "images/pomodoro-benefits.jpg",
-            "data-background-size": "100%"  }
-    }
+            "data-background-size": "100%"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "images/agile-glossary.png",
+            "data-background-size": "100%"
+        }
+    },
+    [
+        "scrum-1.md",
+        "scrum-2.md",
+        "scrum-3.md",
+        "scrum-4.md"
+    ]
 ]
