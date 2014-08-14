@@ -95,6 +95,7 @@ module.exports = (grunt) ->
                 dir: 'dist'
                 commit: true
                 push: true
+                connectCommits: true
             pages:
                 options:
                     remote: 'http://github.com/elreplicante/productivity-tools.git'
