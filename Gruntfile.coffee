@@ -93,9 +93,8 @@ module.exports = (grunt) ->
 
             options:
                 dir: 'dist'
-                commit: true
+                commit: false
                 push: true
-                message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
                     remote: 'git@github.com:elreplicante/productivity-tools.git'
