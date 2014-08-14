@@ -1,8 +1,8 @@
-## Sprint
-<p class="fragment">focus strictly on your project</p>
-<p class="fragment">no distractions</p>
-<p class="fragment">no knocking off early</p>
-<p class="fragment">no <i>nothing</i> until you reach your goal</p>
+##Sprint
+<p class="fragment">Focus strictly on your project</p>
+<p class="fragment">No distractions</p>
+<p class="fragment">No knocking off early</p>
+<p class="fragment">No <i>nothing</i> until you reach your goal</p>
 
 note:
     Put your speaker notes here.
