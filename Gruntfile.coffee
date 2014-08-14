@@ -93,7 +93,7 @@ module.exports = (grunt) ->
 
             options:
                 dir: 'dist'
-                commit: false
+                commit: true
                 push: true
             pages:
                 options:
