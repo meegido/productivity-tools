@@ -1,5 +1,3 @@
-# Scrumming solo
-<hr>
 ## Sprint
 <p class="fragment">focus strictly on your project</p>
 <p class="fragment">no distractions</p>
