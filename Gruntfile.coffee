@@ -97,7 +97,7 @@ module.exports = (grunt) ->
                 push: true
             pages:
                 options:
-                    remote: 'git@github.com:elreplicante/productivity-tools.git'
+                    remote: 'http://github.com/elreplicante/productivity-tools.git'
                     branch: 'gh-pages'
 
 
